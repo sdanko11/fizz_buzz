@@ -11,5 +11,3 @@ def fizz_buzz(starting_number, ending_number)
     end
   end
 end
-
-fizz_buzz(0, 60)
